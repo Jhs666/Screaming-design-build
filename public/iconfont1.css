@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1562741618772'); /* IE9 */
+  src: url('iconfont.eot?t=1562741618772#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPoAAsAAAAAB+QAAAOaAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDQIMSATYCJAMMCwgABCAFhG0HRBvmBsgehXGz00Xd1viKK8JTPvSe9SaTdrOTNXLSygejSFqnm00P7J6lL/FL+INKAFzufkz9z9IApxela9CYaDm3uQIIMOBy+lP8vzqg3OYY/BhgHFBgYwyKAgysQALE2BvGLi3zMhAAk6ExMmjXpQ8EPHUWAZCbw2aCELHjC1oJAWHM2BhTshAGQjiLuwtggfN58kNeAeAYIqgLexzaWtHiaXzLaCAYMMQioOjOC4DeBlBAYwAPZJvpH4B6+cYoJur54lojHsF1lQoGceSS1qj94QEcAiSF2hwGAOqjAgdvU0MeGEqo3GrFwU03AkIASwCc5hxx1A7COMxII6Fa9bhHj8qrD8YW8eDAlWuBh4/+MnHOitUJj95OyfrMx4/bkZd5mLtsVzxZsSfxyOP24omHfVetQ+BBn6Url21LfPx4Vr1eDZtdLYafeJzaf03K8uMsYvlyUi1GHru1L5DUZ++DvmHH72cMW32asay7xWP30oeuOiWGz0Fg6QgW2DVnT/Xu2TtN3oHlvezx3fV+fb47O9RpXbu1t2PzPqicxH9Fm/RUmnh39Vf6hIgXoq3WznUbhlfSSHNyb3f+JlKwaP67mP/uTaPuxwHNckiryty0fi1TU5otvDRznIx7/Jehx98YhqZlI/j5el037rqvfZ2fvU6tXbO+LKlFm7EstmoR1f961pPeJ8sH50du3yupvSYlte+UPmLqmtDYasSI84vHJK9Ji9suDWFjZjeXwqOb0amGu3k4PxwjAEDwBz1Po5ziW16gcU/wO+jSWvl2eGTFXxB5AMDT0V4NKqsVAQF3OAY8r6pYAABLJamgg8aCLFsPJkF180zmcQCGAYIgHONVc3P8NSkSgvgAnBDpoAS1SZ5tDANRAYwEzcE00n67KJaGInEogIamARBRDoAT4QKoKPdInn0JgwRfYBSVgukXxB4oqtvBWmuySZetknmM5LCoXkV36cxt7SXb/G6TFlY5XD9Zq3KkpNysnHipveyVtS6WVI205em6Iima6pHagetkt1uVfJrqlC16ll3XfWXZ2UrWk7IsqgdMaxqZiU5mJTEbQ+JgofJSrN46lnh/LzIbPzcTrUBQlO5HpqniGFySK0tOBbK93ltJcCqPVBnJJo9Op5AoNCoPSTvglbm1vEriyx7nJLPQZbE3yPqUyUbdlKr6rOGNnvPbB8Cow2jAEUp4sJ3jrzpN9uruMeG63+wwqW6/1+VXmwAAAA==') format('woff2'),
+  url('iconfont.woff?t=1562741618772') format('woff'),
+  url('iconfont.ttf?t=1562741618772') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1562741618772#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 0.4rem;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-diligently:before {
+  content: "\e60a";
+}
+
+.icon-tubiaolunkuo-:before {
+  content: "\e606";
+}
+
